@@ -35,8 +35,8 @@ Assista completo no YouTube: https://youtu.be/Gj_4SDOxSRU
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/gerador-email-ia-extension.git
-cd gerador-email-ia-extension
+git clone https://github.com/leticiamn/ai-insight-hub
+cd ai-insight-hub
 ```
 
 ### 2. Instale as dependências
