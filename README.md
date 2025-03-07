@@ -4,7 +4,9 @@ Esta extensão para o Google Chrome permite gerar e-mails de vendas personalizad
 
 ## Demonstração
 
-[![Demonstração](https://img.youtube.com/vi/Gj_4SDOxSRU/maxresdefault.jpg)](https://www.youtube.com/watch?v=Gj_4SDOxSRU)
+https://github.com/user-attachments/assets/1ddad2b9-6520-4abd-89a4-a23ea89f3e69
+
+Assista completo no YouTube: https://youtu.be/Gj_4SDOxSRU
 
 ## Funcionalidades
 
